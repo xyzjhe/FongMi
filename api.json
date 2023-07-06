@@ -111,7 +111,78 @@
   {"key":"奇艺视频","name":"奇艺视频SP","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1,"jar": "./jar/QQiQYI.jar"},
   {"key":"芒果视频","name":"芒果视频SP","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,"jar": "./jar/MG&iQIYI.jar"}, 
   
-
+{
+        "key": "lf_js_douban",
+        "name":"豆瓣┃lf_douban",
+        "type":3,
+        "searchable": 0,
+        "quickSearch": 0,
+        "filterable": 1,
+        "api": "./lf_douban1_min.js"
+        },
+    {
+        "key": "lf_js_ikanbot",
+        "name":"点播┃lf_ikanbot",
+        "type":3,
+         "searchable": 1,
+         "quickSearch": 1,
+         "filterable": 1,
+        "api": "./lf_ikanbot_min.js"
+        },
+        {
+      "key": "aikanbot",
+      "name": "❤️影视爱看机器人",
+      "type": 3,
+      "api": "https://qu.ax/eTKm.js",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+       {
+      "key": "MV_vod",
+      "name": "┃MV┃视频",
+      "type": 1,
+      "api": "https://tvbox-mv--leosam2048.repl.co/mv/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+     {
+          "key": "傢伙",
+          "name": "傢伙",
+          "type": 4,
+          "api": " https://php.iptv.hz.cz/moguys.php",
+          "searchable": 1,
+          "changeable": 1
+  },
+    {
+      "key":"MTV转点播",
+      "name": "电视 | MTV[js]",
+      "type":3,
+      "api":"https://agit.ai/lengniuge/js/raw/branch/master/Live.js",
+      "ext":"https://agit.ai/lengniuge/mv/raw/branch/master/mv.json"
+    },
+    {
+            "key": "MTV转点播1",
+            "name": "MTV转换",
+            "type": 3,
+            "api": "https://agit.ai/lamdow8/ai/raw/branch/cc/lf_live_min.js",
+            "ext": "https://agit.ai/lamdow8/ai/raw/branch/cc/lf_live_min.txt"
+        },
+        
+    { "key":"直播转点播",
+      "name":"电视直播",
+      "type":3,
+      "api":"https://agit.ai/lengniuge/js/raw/branch/master/Live.js",
+      "ext":"https://agit.ai/lengniuge/api/raw/branch/master/tv.json"
+    },
+{
+  "key":"直播转点播1",
+  "name":"电视直播1",
+  "type":3,
+  "api":"http://我不是.肥猫.love:63/JS/直播转点播2.js",
+  "ext":"http://我不是.肥猫.love:63/lives/直播仓.json"
+  },
+    
     {
       "key": "本地",
       "name": "本地",
