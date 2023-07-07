@@ -113,25 +113,37 @@
   
 
     {
-      "key": "If_js_douban",
+      "Key": "If_js_douban",
       "name": "豆瓣┃If_douban",
-      "api":"csp_AppYsV2",
       "type": 3,
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "api": "./js/lf_douban1_min.js"
+      "api": "./lf_douban1_min.js"
     },
-    
-   
-        {
-      "key": "aikanbot",
-      "name": "❤️影视爱看机器人",
+    {
+      "Key": "If_js_ikanbot",
+      "name": "点播┃If_ikanbot",
       "type": 3,
-      "api": "https://qu.ax/eTKm.js",
       "searchable": 1,
-      "quickSearch": 1
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "./lf_ikanbot2_min.js"
     },
+    {
+      "key": "If_js_live",
+      "name": "直播┃If_live2vod",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "./lf_live10_min.js",
+      "ext": "./If_live_min.txt"
+    },
+      
+     
+  
+     
        {
       "key": "MV_vod",
       "name": "┃MV┃视频",
@@ -211,7 +223,7 @@
       "api": "csp_Bili",
       "searchable": 1,
       "changeable": 0,
-      "ext": "./json/bili.json"
+      "ext": "帕梅拉#太极拳#广场舞#演唱会"
     },
     {
       "key": "泥巴",
