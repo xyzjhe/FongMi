@@ -223,7 +223,7 @@
       "api": "csp_Bili",
       "searchable": 1,
       "changeable": 0,
-      "ext": "json/bilinew.txt"
+      "ext": "./json/bilinew.txt"
     },
     {
       "key": "泥巴",
