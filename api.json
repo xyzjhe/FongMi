@@ -137,7 +137,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "api": "./lf_live10_min.js",
+      "api": "./lf_live_min.js",
       "ext": "./If_live_min.txt"
     },
       
