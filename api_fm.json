@@ -122,7 +122,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "api": "./lf_douban1_min.js"
+      "api": "./豆瓣API.js"
     },
     {
       "Key": "If_js_ikanbot",
