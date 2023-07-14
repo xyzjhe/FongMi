@@ -7,7 +7,7 @@
   "sites": [
   {"key": "js荐片","name": "🍥┃豆瓣JS┃荐片🍥","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./js/jianpian.js"},
    {"key": "js豆瓣","name": "🍥┃豆瓣JS┃热榜🍥","type": 3,"api": "./lib/douban2.js","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./js/douban.js"},
-   {"key":"py_douban","name":"🍎┃豆瓣py┃备用🍎","type":3,"api":"py_douban","changeable":1,"searchable":1,"ext":"./py/douban.py"},
+   /*{"key":"py_douban","name":"🍎┃豆瓣py┃备用🍎","type":3,"api":"py_douban","changeable":1,"searchable":1,"ext":"./py/douban.py"},*/
    
    {"key":"腾讯","name":"🐧腾讯JS┃视频","type":3,"api":"./lib/drpy2.min.js","ext":"./js/tengxun.js"},
    {"key":"爱奇艺","name":"🥝爱奇艺JS┃视频","type":3,"api":"./lib/drpy2.min.js","ext":"./js/iqy.js"},
