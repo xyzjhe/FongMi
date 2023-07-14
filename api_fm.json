@@ -97,11 +97,11 @@
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
 
-   {"key": "js荐片","name": "🍥┃豆瓣JS┃荐片🍥","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./js/jianpian.js"},
-    
    {"key": "js豆瓣","name": "🍥┃豆瓣JS┃热榜🍥","type": 3,"api": "./lib/douban2.js","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./js/douban.js"},
-    
-   {"key":"py_douban","name":"🍎┃豆瓣py┃备用🍎","type":3,"api":"py_douban","changeable":1,"searchable":1,"ext":"./py/douban.py"},
+
+   {"key": "js荐片","name": "🍥┃豆瓣JS┃荐片🍥","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./js/jianpian.js"},
+   
+   /*{"key":"py_douban","name":"🍎┃豆瓣py┃备用🍎","type":3,"api":"py_douban","changeable":1,"searchable":1,"ext":"./py/douban.py"},*/
    
    {"key":"腾讯","name":"🐧腾讯JS┃视频","type":3,"api":"./lib/drpy2.min.js","ext":"./js/tengxun.js"},
    {"key":"爱奇艺","name":"🥝爱奇艺JS┃视频","type":3,"api":"./lib/drpy2.min.js","ext":"./js/iqy.js"},
@@ -229,7 +229,7 @@
       "changeable": 0,
       "ext": {
         "type": "食谱#相声小品#戏曲#美食#2023年热们歌曲超清#舞蹈#健身#太极拳#帕梅拉#广场舞#番剧#国创#电影#电视剧#纪录片#综艺#演唱会#动物世界#风景4K#女团#4K音乐#MV#4K MV#选美#模特#泳装秀#内衣秀#苏教版课程#人教版课程#沪教版课程#北师大版课程#儿童",
-        "cookie": ""
+        "cookie": "buvid3=8B57D3BA-607A-1E85-018A-E8C430023CED42659infoc; b_lsid=BEB8EE7F_18742FF8C2E; bsource=search_baidu; _uuid=DE810E367-B52C-AF6E-A612-EDF4C31567F358591infoc; b_nut=100; buvid_fp=711a632b5c876fa8bbcf668c1efba551; SESSDATA=7624af93%2C1696008331%2C862c8%2A42; bili_jct=141a474ef3ce8cf2fedf384e68f6625d; DedeUserID=3493271303096985; DedeUserID__ckMd5=212a836c164605b7; sid=5h4ruv6o; buvid4=978E9208-13DA-F87A-3DC0-0B8EDF46E80434329-123040301-dWliG5BMrUb70r3g583u7w%3D%3D"
       }
     },
    
