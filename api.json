@@ -54,7 +54,7 @@
       "changeable": 0,
       "ext": "./json/webdav.json"
     },
-    {
+    /*{
       "key": "哔哩",
       "name": "哔哩",
       "type": 3,
@@ -62,7 +62,7 @@
       "searchable": 1,
       "changeable": 0,
       "ext": "戏曲#越剧#舞蹈#健身#太极拳#帕梅拉#广场舞#电影#电视剧#演唱会#动物世界"
-    },
+    },*/
     {
       "key": "泥巴",
       "name": "泥巴",
