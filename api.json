@@ -5,8 +5,9 @@
    
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
-  {"key": "js荐片","name": "🍥┃豆瓣JS┃荐片🍥","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./js/jianpian.js"},
-   {"key": "js豆瓣","name": "🍥┃豆瓣JS┃热榜🍥","type": 3,"api": "./lib/douban2.js","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./js/douban.js"},
+    {"key": "js豆瓣","name": "🍥┃豆瓣JS┃热榜🍥","type": 3,"api": "./lib/douban2.js","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./js/douban.js"},
+    {"key": "js荐片","name": "🍥┃豆瓣JS┃荐片🍥","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./js/jianpian.js"},
+   
    /*{"key":"py_douban","name":"🍎┃豆瓣py┃备用🍎","type":3,"api":"py_douban","changeable":1,"searchable":1,"ext":"./py/douban.py"},*/
    
    {"key":"腾讯","name":"🐧腾讯JS┃视频","type":3,"api":"./lib/drpy2.min.js","ext":"./js/tengxun.js"},
@@ -19,14 +20,6 @@
   {"key":"腾讯视频","name":"腾讯视频SP","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "./jar/QQiQYI.jar"},
   {"key":"奇艺视频","name":"奇艺视频SP","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1,"jar": "./jar/QQiQYI.jar"},
   {"key":"芒果视频","name":"芒果视频SP","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,"jar": "./jar/MG&iQIYI.jar"}, 
-  
-
-    
-      
-     
-  
-     
-       
     
     {
       "key": "本地",
