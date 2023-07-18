@@ -196,7 +196,7 @@
       "key": "廠長",
       "name": "廠長",
       "type": 3,
-      "api": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/js/czzy_open.js",
+      "api": "./js/czzy_open.js",
       "searchable": 1,
       "changeable": 1
     },
@@ -204,7 +204,7 @@
       "key": "愛看",
       "name": "愛看",
       "type": 3,
-      "api": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/js/ikanbot_open.js",
+      "api": "./js/ikanbot_open.js",
       "searchable": 1,
       "changeable": 1
     },
