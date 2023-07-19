@@ -155,14 +155,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-     {
-          "key": "傢伙",
-          "name": "傢伙",
-          "type": 4,
-          "api": " https://php.iptv.hz.cz/moguys.php",
-          "searchable": 1,
-          "changeable": 1
-  },
+     
     {
       "key":"MTV转点播",
       "name": "电视 | MTV[js]",
@@ -193,21 +186,38 @@
   },
 
 {
-      "key": "廠長",
-      "name": "廠長",
+      "key": "厂长影视",
+      "name": "厂长影视",
       "type": 3,
       "api": "./js/czzy_open.js",
       "searchable": 1,
       "changeable": 1
     },
     {
-      "key": "愛看",
-      "name": "愛看",
+      "key": "爱看机器人",
+      "name": "爱看机器人",
       "type": 3,
       "api": "./js/ikanbot_open.js",
       "searchable": 1,
       "changeable": 1
     },
+{
+      "key": "快看影视",
+      "name": "快看影视",
+      "type": 3,
+      "api": "./js/kkys_open.js",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "鲲鱼影视77",
+      "name": "鲲鱼影视77",
+      "type": 3,
+      "api": "./js/kunyu77_open.js",
+      "searchable": 1,
+      "changeable": 1
+    },
+
     
     {
       "key": "本地",
