@@ -10,12 +10,12 @@
    
 
    
-   {"key":"腾讯","name":"🐧腾讯JS┃视频","type":3,"api":"./lib/drpy2.min.js","ext":"./js/tengxun.js"},
-   {"key":"爱奇艺","name":"🥝爱奇艺JS┃视频","type":3,"api":"./lib/drpy2.min.js","ext":"./js/iqy.js"},
-   {"key":"优酷","name":"🆒优酷JS┃视频","type":3,"api":"./lib/drpy2.min.js","ext":"./js/youku.js"},
-   {"key":"芒果","name":"🥭芒果JS┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/mangguo.js"},
-   {"key":"搜狗","name":"🐶搜狗JS┃视频","type":3,"api":"./lib/drpy2.min.js","ext":"./js/sougou.js"},
-   {"key":"360","name":"🔍360JS┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/360.js"},
+   {"key":"腾讯","name":"🐧腾讯JS","type":3,"api":"./lib/drpy2.min.js","ext":"./js/tengxun.js"},
+   {"key":"爱奇艺","name":"🥝爱奇艺JS","type":3,"api":"./lib/drpy2.min.js","ext":"./js/iqy.js"},
+   {"key":"优酷","name":"🆒优酷JS","type":3,"api":"./lib/drpy2.min.js","ext":"./js/youku.js"},
+   {"key":"芒果","name":"🥭芒果JS","type":3,"api":"./lib/drpy2.min.js","ext":"./js/mangguo.js"},
+   {"key":"搜狗","name":"🐶搜狗JS","type":3,"api":"./lib/drpy2.min.js","ext":"./js/sougou.js"},
+   {"key":"360","name":"🔍360JS","type":3,"api":"./lib/drpy2.min.js","ext":"./js/360.js"},
    
      
     
