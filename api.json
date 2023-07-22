@@ -1,7 +1,7 @@
 {
   "spider": "https://jihulab.com/laoz/CatVodSpider/-/raw/main/jar/custom_spider.jar",
 
-  "lives":[{"name":"live","type":0,"url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
+  "lives":[{"name":"live","type":0,"url":"https://agit.ai/laozou/mtv/raw/branch/master/live.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
    
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
@@ -17,70 +17,9 @@
    {"key":"搜狗","name":"🐶搜狗JS┃视频","type":3,"api":"./lib/drpy2.min.js","ext":"./js/sougou.js"},
    {"key":"360","name":"🔍360JS┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/360.js"},
    
-  {"key":"腾讯视频","name":"腾讯视频SP","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "./jar/QQiQYI.jar"},
-  {"key":"奇艺视频","name":"奇艺视频SP","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1,"jar": "./jar/QQiQYI.jar"},
-  {"key":"芒果视频","name":"芒果视频SP","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,"jar": "./jar/MG&iQIYI.jar"}, 
+     
     
-    {
-      "key": "本地",
-      "name": "本地",
-      "type": 3,
-      "api": "csp_Local",
-      "searchable": 0,
-      "changeable": 0
-    },
-    {
-      "key": "AList",
-      "name": "AList",
-      "type": 3,
-      "api": "csp_AList",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": "./json/alist.json"
-    },
-    {
-      "key": "WebDAV",
-      "name": "WebDAV",
-      "type": 3,
-      "api": "csp_WebDAV",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": "./json/webdav.json"
-    },
-    /*{
-      "key": "哔哩",
-      "name": "哔哩",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": "戏曲#越剧#舞蹈#健身#太极拳#帕梅拉#广场舞#电影#电视剧#演唱会#动物世界"
-    },*/
-    {
-      "key": "泥巴",
-      "name": "泥巴",
-      "type": 3,
-      "api": "csp_NiNi",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "星星",
-      "name": "星星",
-      "type": 3,
-      "api": "csp_Star",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "獨播",
-      "name": "獨播",
-      "type": 3,
-      "api": "csp_XPathMacFilter",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "./json/duboku.json"
-    },
+    
 
         
     {
@@ -102,30 +41,7 @@
             "categories":["国产动漫","日韩动漫","国产剧","韩国剧","日本剧","电影片","连续剧","综艺片","动漫片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","香港剧","欧美剧","记录片","台湾剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","欧美动漫","港台动漫","海外动漫"]
         },
     
-    {
-      "key": "櫻花",
-      "name": "櫻花",
-      "type": 3,
-      "api": "csp_Ying",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "巴士",
-      "name": "巴士",
-      "type": 3,
-      "api": "csp_Dm84",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "異界",
-      "name": "異界",
-      "type": 3,
-      "api": "csp_Ysj",
-      "searchable": 1,
-      "changeable": 1
-    },
+   
     {
       "key": "玩偶",
       "name": "玩偶",
